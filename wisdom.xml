@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
-        <title>Your Great App's Changelog</title>
+        <title>WisdomChangelog</title>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
@@ -15,7 +15,7 @@
                 https://you.com/app/changelog.php
             </sparkle:fullReleaseNotesLink>
             <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
-            <enclosure url="https://you.com/app/Your%20Great%20App%202.0.zip" length="1623481" type="application/octet-stream" sparkle:edSignature="WVyVJpOx+a5+vNWJVY79TRjFKveNk+VhGJf2iti4CZtJsJewIUGvh/1AKKEAFbH1qUwx+vro1ECuzOsMmumoBA==" />
+            <enclosure url="https://github.com/SiriusSupportDevTeam/WisdomMacUpdates/releases/download/v1.6/Wisdom.dmg"  type="application/octet-stream" sparkle:edSignature="ssPsyfEgXfvqeKAS1xMJSTdW+AHJTmf4XDOLXt2nvkM=" />
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
         </item>
 
@@ -30,7 +30,7 @@
                 https://you.com/app/changelog.php?up-to=1.5
             </sparkle:fullReleaseNotesLink>
             <pubDate>Wed, 01 Jan 2006 12:20:11 +0000</pubDate>
-            <enclosure url="https://you.com/app/Your%20Great%20App%201.5.zip" length="1472893" type="application/octet-stream" sparkle:edSignature="pNFd7KbcQSu+Mq7UYrbQXTPq82luht2ACXm/r2utp1u/Uv/5hWqctdT2jwQgMejW7DRoeV/hVr6J4VdZYdwWDw==" />
+            <enclosure url="https://github.com/SiriusSupportDevTeam/WisdomMacUpdates/releases/download/v1.6/Wisdom.dmg" length="1472893" type="application/octet-stream" sparkle:edSignature="pNFd7KbcQSu+Mq7UYrbQXTPq82luht2ACXm/r2utp1u/Uv/5hWqctdT2jwQgMejW7DRoeV/hVr6J4VdZYdwWDw==" />
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
         </item>
 
