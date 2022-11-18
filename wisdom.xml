@@ -12,7 +12,7 @@
         https://example.com/release_notes/app_2.0.html
     </sparkle:releaseNotesLink>
     <pubDate>Mon, 05 Oct 2022 19:20:11 +0000</pubDate>
-    <enclosure url="https://github.com/SiriusSupportDevTeam/WisdomMacUpdates/releases/download/v1.6/Wisdom.dmg"
+    <enclosure url="https://github.com/SiriusSupportDevTeam/WisdomMacUpdates/releases/download/1.4/Wisdom.dmg"
                 sparkle:edSignature="zZcT3viZFyY7IyfauEGUICbKrBLl0xTSKYF2FKD8rsS8JqLdQA9qeEE0aRGQ48Ck0KcGzi0H1HMVN9ujX648Aw=="
                 length="2086255"
                 type="application/octet-stream" />
