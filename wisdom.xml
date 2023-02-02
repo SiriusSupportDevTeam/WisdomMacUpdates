@@ -7,13 +7,13 @@
     <item>
     <title>Version 2.4 (2 bugs fixed; 3 new features)</title>
     <link>https://sirius.com</link>
-    <sparkle:version>1.6</sparkle:version>
+    <sparkle:version>1.6.2</sparkle:version>
     <sparkle:releaseNotesLink>
         https://example.com/release_notes/app_2.0.html
     </sparkle:releaseNotesLink>
     <pubDate>Mon, 05 Oct 2022 19:20:11 +0000</pubDate>
     <enclosure url="https://github.com/SiriusSupportDevTeam/WisdomMacUpdates/releases/download/1.5/Wisdom.zip"
-                sparkle:edSignature="1l0PD1TNGoOg/m7Ql68HCDwbRaw6rNPqf5tL+D/lJ7GFTBgEg4pgKvwOD/IgDYQ3GD1S/HIy3Lr4XmfTWpgtBw==" length="2237430"
+                sparkle:edSignature="0ZOSRBVkh8Ur16bq548ZY7lFjIWH7e9+5SEuX7cxLr2YggJZgChJKZmCF1ujm5XJa4xoQG9BasqEnCXBIpOsAg==" length="2237497"
                 type="application/octet-stream" />
     </item>
 </channel>
